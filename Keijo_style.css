@@ -1,0 +1,62 @@
+nav{padding: 13px;}
+
+span{float: left;
+font-size: 35px; }
+
+h1{text-align: center;}
+
+p{font-size: larger;}
+p.k{text-align: center;
+    text-decoration: underline; }
+p.kk{text-align: center;
+font-style: italic;}    
+
+h3.k{text-shadow: 2px 2px 5px red;
+text-align: center;}
+h3{text-align: center;}
+
+
+h2{text-align: center;
+text-decoration: underline;}
+
+ol{list-style-position: inside;
+    font-size: larger;
+}
+body{background-color: antiquewhite;}
+
+div.k{border: 2px solid;
+padding: 20px; 
+width: 500px;
+resize: both;
+overflow: auto;
+background:url(Keijo.Logo.JPG);
+background-size: 570px 520px;}
+
+.navbar-text{color: rgb(228, 17, 17);
+    text-shadow: 2px 2px 4px #000000;
+padding: 5px;}
+
+textarea.form-control{border: 2px solid rgb(101, 86, 86);
+       }
+     
+.navbar-brand:hover{ 
+        text-decoration: underline;}
+
+button{font-size: 30px;}  
+
+.btn-outline-secondary{border-color: beige;
+            color: beige;}   
+
+.btn{font-size: 20px;
+background-color: rgb(74, 73, 80);
+border-color: beige;}
+.btn:link{    
+background-color: rgb(129, 124, 122);
+border-color: beige;}
+.btn:visited{
+    border-color: beige;}
+.btn:hover{ border-color: beige;}    
+
+.dropdown-toggle:hover{text-decoration: underline;}
+
+.btn-secondary:hover{text-decoration: underline;}
